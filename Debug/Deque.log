@@ -1,0 +1,10 @@
+﻿  deque.cpp
+  main.cpp
+C:\Users\user\source\repos\Deque\Deque\Header.h(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Deque\Deque\Header.h(174): message : во время компиляции функции-члена класс шаблон "void Deque<Cc_t>::clone(const Deque<Cc_t> &)"
+C:\Users\user\source\repos\Deque\Deque\Header.h(139): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Deque<Cc_t>::clone(const Deque<Cc_t> &)"
+C:\Users\user\source\repos\Deque\Deque\Header.h(111): message : во время компиляции функции-члена класс шаблон "Deque<Cc_t>::~Deque(void)"
+C:\Users\user\source\repos\Deque\Deque\main.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "Deque<Cc_t>::~Deque(void)"
+C:\Users\user\source\repos\Deque\Deque\Header.h(194): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Deque<Cc_t>"
+  Создание кода...
+  Deque.vcxproj -> C:\Users\user\source\repos\Deque\Debug\Deque.exe
